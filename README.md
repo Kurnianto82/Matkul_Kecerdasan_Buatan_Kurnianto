@@ -1,2 +1,2 @@
-# UTS_Kecerdasan_Buatan
-UTS
+# Kecerdasan_Buatan
+Tugas_UTS_UAS
